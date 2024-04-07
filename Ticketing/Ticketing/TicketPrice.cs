@@ -15,7 +15,7 @@ namespace Ticketing
         private decimal mPrice;
 
         const decimal mdecBalcony = 40.5m; // changes price from 35.5 to 40.5
-        const decimal mdecGeneral = 28.75m;
+        const decimal mdecGeneral = 30.75m; // change price from 28.75 to 30.75
         const decimal mdecBox = 62.0m;
         const decimal mdecDiscount = 5.0m; 
 
